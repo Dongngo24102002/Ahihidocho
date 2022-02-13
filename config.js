@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Vì Đông đẹp traiiii á',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    mess: 'Mình biết mà. Yêu bạn nhiều nhiều ❤️❤️❤️❤️',
     messDesc: 'Đi chơi với mình nhá ?.',
     btnAccept: 'Vâng ',
     messLink: 'https://m.me/anhdongdeptrai2002/' //link mess của các bạn. VD: /dinhkaito
