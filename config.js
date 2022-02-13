@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Alo Alo",
-    introTitle: 'Gọi cậu đấy',
+    titleWeb: "Ngô Ngọc Đông gửi cho cậu những điều yêu thương",
+    introTitle: ' Alo alo . Gọi cậu đấy',
     introDesc: `Ahihi đồ ngốcccc`,
     btnIntro: '^^Bấm đây này^^',
     title: 'Đó có phải là yêu hay không, tại sao làm tym mình ngây dại :>>',
